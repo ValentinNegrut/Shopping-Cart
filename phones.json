@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "1" ,
+      "image_url": "./images/model-1.jpg",
+      "name": "iPhone 11",
+      "price": 119.99
+    },
+    {
+      "id": "2" ,
+      "image_url": "./images/model-2.jpg",
+      "name": "Huawei nova Y70",
+      "price": 129.99
+    },
+    {
+      "id": "3" ,
+      "image_url": "./images/model-1.jpg",
+      "name": "iHunt Like 11 Panda Pro 2022",
+      "price": 120.99
+    },
+    {
+      "id": "4" ,
+      "image_url": "./images/model-2.jpg",
+      "name": "iPhone 13",
+      "price": 229.99
+    },
+    {
+      "id": "5" ,
+      "image_url": "./images/model-1.jpg",
+      "name": "iPhone 14",
+      "price": 389.99
+    },
+    {
+      "id": "6" ,
+      "image_url": "./images/model-2.jpg",
+      "name": "Motorola Moto E20",
+      "price": 219.99
+    },
+    {
+      "id": "7" ,
+      "image_url": "./images/model-1.jpg",
+      "name": "realme 10",
+      "price": 149.99
+    },
+    {
+      "id": "8" ,
+      "image_url": "./images/model-2.jpg",
+      "name": "Samsung Galaxy A04s",
+      "price": 339.99
+    },
+    {
+      "id": "9" ,
+      "image_url": "./images/model-1.jpg",
+      "name": "Samsung Galaxy A13",
+      "price": 289.99
+    },
+    {
+      "id": "10",
+      "image_url": "./images/model-2.jpg",
+      "name": "Samsung Galaxy A53",
+      "price": 189.99
+    },
+    {
+      "id": "11",
+      "image_url": "./images/model-1.jpg",
+      "name": "Samsung Galaxy S8",
+      "price": 419.99
+    },
+    {
+      "id": "12",
+      "image_url": "./images/model-2.jpg",
+      "name": "Samsung Galaxy S10+",
+      "price": 359.99
+    }
+  ]
+}
